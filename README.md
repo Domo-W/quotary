@@ -1,2 +1,2 @@
 # quotary
-burger and coconut
+For the love of reading.
